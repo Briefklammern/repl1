@@ -15,5 +15,9 @@
 
 ![status](./img/status.PNG)
 
+![master](./img/master_my_conf.PNG)
+
+![slave](./img/slave_my_conf.PNG)
+
 
 *Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.*
