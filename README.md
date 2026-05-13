@@ -19,5 +19,8 @@
 
 ![slave](./img/slave_my_conf.PNG)
 
+![replica](./img/databases.PNG)
+
+![super_read](./img/databases2.PNG)
 
 *Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.*
